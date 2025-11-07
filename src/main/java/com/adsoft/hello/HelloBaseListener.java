@@ -1,4 +1,5 @@
 // Generated from Hello.g4 by ANTLR 4.13.2
+package com.adsoft.hello;
 
 import org.antlr.v4.runtime.ParserRuleContext;
 import org.antlr.v4.runtime.tree.ErrorNode;
